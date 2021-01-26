@@ -1,4 +1,4 @@
-primecoin.gitian.sigs
-=====================
+primecoin.gitian
+================
 
-Gitian signatures of primecoin release builds
+Gitian results of primecoin release builds
